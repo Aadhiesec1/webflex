@@ -1,1 +1,1 @@
-# This is a Boot.dev Git Course
+# Boot.dev Git Course
